@@ -1,5 +1,5 @@
  Hi there, I am a SDE.   
- 🏢 Job：Graphics, engine, art. 
+ 🏢 Job：Graphics, engine, art.  
  🛠 Favorite languages：C++ and Hlsl.  
  💬 Good languages: C++、Hlsl、Glsl、Rust、TypeScript、nodejs、C#（Programming without any language limitations）  
  📫 Reach me via Email: 2221870259@qq.com  
