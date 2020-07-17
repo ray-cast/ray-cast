@@ -1,6 +1,6 @@
  Hi there, I am a SDE   
  🛠 Favorite languages：C++ and Hlsl.  
- 💬 Good languages: C++、Hlsl、Glsl、Rust、TypeScript、nodejs、C#（The languages without limit）  
+ 💬 Good languages: C++、Hlsl、Glsl、Rust、TypeScript、nodejs、C#（Programming without any language limitations）  
  🏢 Job：Graphics, engine, art, programming languages.  
  📫 Reach me via Email: 2221870259@qq.com  
  🎨 Side projects：[Technical artist](https://github.com/ray-cast/ray-mmd)、[Graphics Engine](https://github.com/octoon/octoon)
