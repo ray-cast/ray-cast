@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a SDE 👋
  🛠 Favorite languages：C++ and Typescript.  
  🏢 Job：Graphics, engine, art, programming languages.  
  📫 Reach me via Email: 2221870259@qq.com  
