@@ -1,5 +1,5 @@
  Hi there, I am a SDE   
- 🛠 Favorite languages：C++ and Typescript.  
+ 🛠 Favorite languages：C++ and Hlsl.  
  💬 Good languages: C++、Hlsl、Glsl、Rust、TypeScript、nodejs、C#（The languages without limit）  
  🏢 Job：Graphics, engine, art, programming languages.  
  📫 Reach me via Email: 2221870259@qq.com  
