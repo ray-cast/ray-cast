@@ -1,8 +1,13 @@
  Hi there, I am a SDE.   
+ 
  🏢 Job：Graphics, engine, art.  
+ 
  🛠 Favorite languages：C++ and Hlsl.  
+ 
  💬 Good languages: C++、Hlsl、Glsl、Rust、TypeScript、nodejs、C#（Programming without any language limitations）  
+ 
  📫 Reach me via Email: 2221870259@qq.com  
+ 
  🎨 Side projects：[Technical artist](https://github.com/ray-cast/ray-mmd)、[Graphics Engine](https://github.com/octoon/octoon)
 <!--
 **ray-cast/ray-cast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
