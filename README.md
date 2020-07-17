@@ -1,7 +1,7 @@
 ### Hi there 👋
- 🛠 Favorite languages：C++ and Typescript
- 🏢 Job：Graphics, engine, art, programming languages.
- 📫 Reach me via Email: 2221870259@qq.com
+ 🛠 Favorite languages：C++ and Typescript.  
+ 🏢 Job：Graphics, engine, art, programming languages.  
+ 📫 Reach me via Email: 2221870259@qq.com  
  🎨 Side projects：[Ray-MMD](https://github.com/ray-cast/ray-mmd)、[octoon](https://github.com/octoon/octoon)
 <!--
 **ray-cast/ray-cast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
